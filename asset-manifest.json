@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ultra-React/static/css/main.85c2c3ad.css",
+    "main.js": "/Ultra-React/static/js/main.a73b2113.js",
+    "static/js/453.961333fe.chunk.js": "/Ultra-React/static/js/453.961333fe.chunk.js",
+    "index.html": "/Ultra-React/index.html",
+    "main.85c2c3ad.css.map": "/Ultra-React/static/css/main.85c2c3ad.css.map",
+    "main.a73b2113.js.map": "/Ultra-React/static/js/main.a73b2113.js.map",
+    "453.961333fe.chunk.js.map": "/Ultra-React/static/js/453.961333fe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85c2c3ad.css",
+    "static/js/main.a73b2113.js"
+  ]
+}
